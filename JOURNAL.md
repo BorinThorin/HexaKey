@@ -8,7 +8,8 @@ created_at: "2025-07-01"
  
  ![image]
  
- 11:14pm-11:26pm spent the time listening and researching some switches (know its kinda early for this but idc) I decided on the Cherry Mx Blue
+ 11:14pm-11:26pm spent the time listening and researching some switches (know its kinda early for this but idc) I decided on the Cherry Mx Blue (for now)
+
  
 Design finishing, and math doing in Onshape 11:30pm-1:36am the next day
 
