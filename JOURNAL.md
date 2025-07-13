@@ -13,3 +13,7 @@ created_at: "2025-07-01"
  
 Design finishing, and math doing in Onshape 11:30pm-1:46 am the next day
 
+july 3rd 1:08am-1:57am KiCad stuff
+
+1:22pm-2:02pm   4:10-4:30 7:11-8:11 kicad, yikes lol,  8:13-8:47 11:46pm-12:32am  1:44-1:56 Key kap 3d print cad done
+5:15-7:27 kicad pcb stuff   8:08-10:55  11:28-3am
